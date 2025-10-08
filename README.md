@@ -2,10 +2,12 @@
 Power BI Dashboard
 
 Project Insights- Week 53 (31st Dec)
+
 WOW change:
 Revenue increased by 28.8%,
 Total Transaction Amt & Count increased by 5.3% & 2.1%
 Customer count increased by 3.8%
+
 Overview YTD:
 Overall revenue is 57M
 Total interest is 8M
